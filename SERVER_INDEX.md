@@ -3,5 +3,5 @@
 
 | Name   | Link          | Description        |
 |--------|---------------|--------------------|
-| Google | https://google/  |  Google  |
-| YouTube| https://youtube/ |  YouTube |
+| Google | https://google/  |  hop1  |
+| YouTube| https://youtube/ |  hop2 |
