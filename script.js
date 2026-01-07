@@ -1,4 +1,4 @@
-fetch('servers.json')
+fetch('./servers.json')
   .then(response => response.json())
   .then(data => {
     const search = document.getElementById('search');
